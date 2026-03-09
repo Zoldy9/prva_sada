@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <title>Informatická úniková hra INFOMIX – zoznamy</title>
+  <style>
+    body {
+      background-color: #fff;
+      color: black;
+      font-family: Georgia, serif;
+      padding: 40px;
+    }
+    h1 {
+      color: darkblue;
+      font-size: 36px;
+    }
+    b {
+      font-weight: bold;
+    }
+    a {
+      color: purple;
+      text-decoration: underline;
+      font-size: 18px;
+    }
+    .footer {
+      margin-top: 50px;
+      font-size: 24px;
+      color: darkblue;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Informatická úniková hra INFOMIX – for-cyklus</h1>
+
+  <p>Hra je zameraná na opakovanie for cyklu v Pythone. V hre je pripravených niekoľko hádaniek.</p>
+
+  <p>Zadanie hádanky je <b>bez slov</b>.<br
+
+  <p><b>Prvou nápoveďou</b> k riešeniu je <b>názov zadania</b>.</p>
+
+  <p><b>Druhou</b> nápoveďou je obrázok s ukážkovým <b>príkladom a jeho riešením</b>.<br>
+     Podľa výsledku príkladu je potrebné zistiť zadanie úlohy.<br></p>
+
+  <p>Súčasťou riešenia musí byť správne naprogramovaný algoritmus obsahujúci for cyklus</p>
+
+ 
+
+  <p>Odpoveď zadaj do vstupného textu pripraveného na webovej stránke hádanky a svoju odpoveď odošli.<br>
+     Ak je výsledok správny, dostaneš sa na stránku, na ktorej bude uvedené zadanie ďalšej hádanky.</p>
+
+  <p><a href="prvy/">prvá hádanka</a></p>
+
+  <div class="footer">
+    Želáme Ti veľa úspechov pri riešení informatických hádaniek.
+  </div>
+
+</body>
+</html>
